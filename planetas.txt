@@ -4,3 +4,4 @@ Endor
 Terra
 Hoth
 Marte
+Sol
