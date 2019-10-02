@@ -6,3 +6,4 @@ Hoth
 Marte
 Sol
 Dantooine
+Jakku
