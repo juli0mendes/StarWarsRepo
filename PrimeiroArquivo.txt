@@ -8,5 +8,6 @@ Jabba the Hutt
 
 Rey
 Finn
-Kylo
-Ren
+Kylo Ken
+Poe Dameron
+
